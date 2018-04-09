@@ -8,3 +8,9 @@ Brunel Visualization  - https://developer.ibm.com/code/openprojects/brunel-visua
 Example Brunel Visualization using New York City at https://github.com/dwillis/nyc-maps/blob/master/boroughs.geojson
 
 Documentation on Brunel : http://brunel.mybluemix.net/docs/
+
+# Shiny examples
+https://shiny.rstudio.com/tutorial/
+http://rstudio.github.io/shinydashboard/index.html (shinydashboard)
+
+Included version 1 of a shiny app for visualization (see the tar file)
