@@ -1,0 +1,13 @@
+name: viz-2
+title: viz-2
+username:
+account: cse6242project
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 317922
+bundleId: 1310487
+url: https://cse6242project.shinyapps.io/viz-2/
+when: 1523303617.25153
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|data/alldata.csv|data/alldata2.json|data/alldata2.numbers|data/alldata2.pickle|dashtutorial
